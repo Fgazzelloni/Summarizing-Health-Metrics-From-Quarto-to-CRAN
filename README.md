@@ -41,8 +41,8 @@ By the end of the session, attendees will:
 
 ## Additional Resources
 
-- YouTube Course: I am currently creating an accompanying course on my YouTube channel that dives deeper into the book’s concepts and provides hands-on tutorials with the {HMSIDwR} package.
-- Blog Posts: Stay tuned for blog posts on the project and behind-the-scenes insights into the book creation process.
+- [YouTube Course](https://www.youtube.com/watch?v=OdD9F8aIZA4): I am currently creating an accompanying course on my YouTube channel that dives deeper into the book’s concepts and provides hands-on tutorials with the {HMSIDwR} package.
+- [Blog Posts](https://federicagazzelloni.com/content/proj/): Stay tuned for blog posts on the project and behind-the-scenes insights into the book creation process.
 
 Getting Started
 
