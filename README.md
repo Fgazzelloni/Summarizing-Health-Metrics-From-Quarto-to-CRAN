@@ -1,6 +1,6 @@
 # Summarizing Health Metrics: From Quarto to CRAN
 
-### DSLC.io Project-Club - April 2025 (Second Saturday) 📚
+### [DSLC.io](https://federicagazzelloni.com/content/proj/) Project-Club - April 2025 (Second Saturday) 📚
 
 Welcome to the repository for the *April 2025 DSLC.io Project-Club session*! In this session, I will walk you through how I summarized my journey and learning in health metrics as a collaborator with the *Institute for Health Metrics and Evaluation (IHME)*, and how I wrapped this knowledge into a comprehensive *book* titled:
 
