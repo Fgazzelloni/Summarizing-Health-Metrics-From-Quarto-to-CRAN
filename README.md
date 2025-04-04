@@ -2,11 +2,11 @@
 
 ### DSLC.io Project-Club - April 2025 (Second Saturday) 📚
 
-Welcome to the repository for the *April 2025 DSLC.io Project-Club session*! In this session, I will walk you through how I embarked on summarizing my journey and learning in health metrics as a collaborator with the *Institute for Health Metrics and Evaluation (IHME)*, and how I wrapped this knowledge into a comprehensive *book* titled:
+Welcome to the repository for the *April 2025 DSLC.io Project-Club session*! In this session, I will walk you through how I summarized my journey and learning in health metrics as a collaborator with the *Institute for Health Metrics and Evaluation (IHME)*, and how I wrapped this knowledge into a comprehensive *book* titled:
 
 [Health Metrics and the Spread of Infectious Diseases: Machine Learning Applications and Spatial Modelling Analysis with R](https://bookdown.org/fede_gazzelloni/hmsidR/)
 
-As part of this project, I developed a supporting R package called [{HMSIDwR}](https://cran.r-project.org/web/packages/hmsidwR/index.html), which was published on CRAN on 2024-11-13 to facilitate reproducibility and provide accessible tools for users to analyze health metrics and infectious disease spread. This repository contains the materials from the talk, along with links to the book, package, and further resources.
+As part of this project, I developed a supporting *R package* called [{HMSIDwR}](https://cran.r-project.org/web/packages/hmsidwR/index.html), which was published on CRAN on 2024-11-13 to facilitate reproducibility and provide accessible tools for users to analyze health metrics and infectious disease spread. This repository contains the materials from the talk, along with links to the book, package, and further resources.
 
 ## Session Overview
 
