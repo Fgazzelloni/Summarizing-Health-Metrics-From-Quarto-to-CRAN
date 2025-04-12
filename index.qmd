@@ -1,0 +1,30 @@
+---
+title: "Summarizing Health Metrics: From Quarto to CRAN"
+subtitle: ""
+author: "Federica Gazzelloni<br>"
+date: "2025-04-12"
+footer: "*[Health Metrics: From Quarto to CRAN](https://github.com/Fgazzelloni/Summarizing-Health-Metrics-From-Quarto-to-CRAN)* | [federicagazzelloni.com](http://www.federicagazzelloni.com)"
+logo: "https://avatars.githubusercontent.com/u/31736458?s=200&v=4"
+logo-alt: "DSLC Community"
+format: 
+  revealjs: 
+    width: 1600
+    height: 900  
+    highlight-style: a11y
+    code-block-height: 650px
+    scrollable: true
+    transition: slide
+    background-transition: fade
+    incremental: true
+    slide-number: true
+    filters:
+      - fontawesome
+knitr: 
+  opts_chunk: 
+    fig.align: center
+df-print: kable
+page-layout: full
+title-block-banner: false
+---
+
+{{< include presentation.qmd >}}

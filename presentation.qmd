@@ -1,0 +1,128 @@
+## Introduction
+
+:::notes
+bla bla
+:::
+
+`Welcome!` In this session, I’ll walk you through how I developed a project to `summarize health metrics` using `R` and `Quarto`, and how I published the results as an R package on `CRAN.`
+
+::::: columns
+::: {.column width="30%"}
+[![Federica Gazzelloni](images/federicagazzelloni.jpg){width="80%" fig-align="center"}](https://federicagazzelloni.com/)
+
+[{{< fa link >}}](https://federicagazzelloni.com/) [{{< fa brands github >}}](https://github.com/Fgazzelloni) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/federicagazzelloni/) [{{< fa brands twitter >}}](https://x.com/FGazzelloni) [{{< fa brands mastodon >}}](https://fosstodon.org/@fgazzelloni) [{{< fa brands bluesky >}}](https://bsky.app/profile/fgazzelloni.bsky.social)
+:::
+
+::: {.column width="70%"}
+-   Federica is a Statistician and an Actuary contributing to various open-source initiatives, such as [R-Ladies Rome](https://rladiesrome.org/), the [Actex Learning](https://www.actexlearning.com/) team, and the [DSLC.io, former R for Data Science](https://dslc.io/) community.
+
+- She works as an Independent Researcher, and an advocate for open knowledge-sharing in data science.
+:::
+:::::
+
+## 📝 Agenda
+
+:::notes
+bla bla
+:::
+
+- Overview of the project
+- The writing Journey
+- Tools: Quarto, R, and CRAN
+
+
+## 🔥 Overview of the project{background-color="#f0f0f0"}
+
+:::notes
+
+:::
+
+![](images/overview.png){width=100% fig-align="center"}
+
+book + R package
+
+## 🗣 Quote
+
+::::{.columns}
+:::{.column}
+
+> “As a collaborator with the Global Burden of Disease study, I found myself collecting insights, methods, and visualizations on how we measure health and mortality. After the 2021 GBD round, I decided it was time to bring it all together—for myself, for students, and for anyone interested in global health metrics.”
+
+
+
+:::
+
+:::{.column}
+
+![](images/gbd-cycle.png){width=70%}
+:::
+
+::::
+
+# Looking back at how it all started
+
+## 📘 Book Project Timeline
+
+- 2019  
+**COVID-19 identified as a deadly virus**  
+→ *Began collecting information* on health metrics and global patterns.
+
+- 2020  
+**Collaborator with IHME**  
+→ *Published insights* from various health studies and data projects.
+
+- 2023  
+**Reviewer & Project Proposal**  
+→ *Reviewed the `{mlr3}` book* with detailed feedback  
+→ *Proposed my book project* to a CRC Press editor
+
+
+## ✍️ The writing Journey
+
+![Repeat as needed](images/book-process.png){width=60% fig-align="center"}
+
+
+
+## 🛠️ Tools: Quarto, R, and CRAN
+
+:::notes
+
+:::
+
+- Step 1:  [new project -> quarto book](https://github.com/Fgazzelloni/hmsidR/blob/main/_quarto.yml)
+
+- Step 2: [quarto render -> quarto publish](https://bookdown.org/fede_gazzelloni/hmsidR/)
+
+- Step 3: [r package -> to CRAN](https://fgazzelloni.github.io/hmsidwR/)
+
+- Step 4: `Latex`
+
+## Lessons Learned & Best Practices 
+
+:::notes
+bla bla
+:::
+
+- Not all information is useful
+- Keep it simple
+- Stick to the agenda
+- Keep in mind everything you’ve done for your reader
+- Mind the publication process and LaTeX intricacies
+
+# ⁇ Q&A
+
+:::notes
+bla bla
+:::
+
+
+
+# Thank You!
+
+. . .
+
+Connect with me! 🔥 [On Social Networks: https://linktr.ee/federicagazzelloni](https://linktr.ee/federicagazzelloni)
+
+
+
+
