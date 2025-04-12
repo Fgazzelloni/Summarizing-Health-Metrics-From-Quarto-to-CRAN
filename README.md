@@ -21,23 +21,10 @@ In this session, I will cover the following topics:
 ## What’s Included in This Repository
 
 - Slides: The slides used during the presentation
-- Code Examples: Example code snippets demonstrating key concepts from the book and package
-- Quarto Files: The Quarto files used to write the book and create the content
-- {HMSIDwR} Package: Link to the {HMSIDwR} CRAN package, with installation instructions and usage examples.
-
-## Learning Objectives
-
-By the end of the session, attendees will:
-
-- Understand how to create a technical book using Quarto
-- Gain insights into the process of developing an R package for reproducibility and sharing with others
-- Learn how to structure and publish a CRAN package that complements technical content
-- Be introduced to techniques for summarizing health metrics and analyzing the spread of infectious diseases with machine learning and spatial modeling
-
-## Book and Package Links
-
-- Book: [Health Metrics and the Spread of Infectious Diseases: Machine Learning Applications and Spatial Modelling Analysis with R](https://bookdown.org/fede_gazzelloni/hmsidR/)
-- CRAN Package: [{HMSIDwR}](https://cran.r-project.org/web/packages/hmsidwR/index.html)
+- Book and Package Links:
+  
+     - Book: [Health Metrics and the Spread of Infectious Diseases: Machine Learning Applications and Spatial Modelling Analysis with R](https://bookdown.org/fede_gazzelloni/hmsidR/)
+     - CRAN Package: [{HMSIDwR}](https://cran.r-project.org/web/packages/hmsidwR/index.html)
 
 ## Additional Resources
 
